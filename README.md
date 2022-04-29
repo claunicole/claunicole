@@ -7,7 +7,7 @@ Web Developer in process
 I have been learning to code since the beginning of this year, after switching careers, my goal is to become a web developer and dedicate myself to this
 
 * 🌍  I'm based in Chile
-* 🧠  I'm learning React and Ruby on rails
+* 🧠  I'm learning ReactJS and Ruby on rails
 * 🤝  I'm open to collaborating on challenging projects
 
 ### Skills
