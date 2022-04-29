@@ -4,7 +4,8 @@ Hi 👋 My name is Claudia
 Web Developer in process
 ------------------------
 
-I have been learning to code since the beginning of this year, after switching careers, my goal is to become a web developer and dedicate myself to this
+I have been learning to code since the beginning of this year, after switching careers, my goal is to become a web developer.
+I love challenges and solving problems.
 
 * 🌍  I'm based in Chile
 * 🧠  I'm learning ReactJS and Ruby on rails
