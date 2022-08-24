@@ -4,7 +4,7 @@ Hi 👋 My name is Claudia
 Web Developer
 ------------------------
 
-I have been learning to code since the beginning of this year, after switching careers, my goal is to become a web developer.
+I have been learning to code since the beginning of 2022, after switching careers, my goal is to become a web developer.
 I love challenges and solving problems.
 
 * 🌍  I'm based in Chile
