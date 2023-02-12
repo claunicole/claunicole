@@ -12,6 +12,7 @@ I love challenges and solving problems.
 * 🌍  I'm based in Chile
 * 🖥️  See my portfolio at [My Portfolio :)](http://https://claunicole.netlify.app/)
 * 🤝  I'm open to collaborating on challenging projects
+* 💡   I'm JsConf.cl staff
 * ⚡  I love videogames, horror books and I have 5 dogs
 
 ### Skills
