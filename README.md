@@ -10,7 +10,7 @@ I love challenges and solving problems.
 🚀I'm currently working as Trainee Ruby on Rails Developer at Código Facilito
 
 * 🌍  I'm based in Chile
-* 🖥️  See my portfolio at [My Portfolio :)](http://https://claunicole.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio :)](https://claunicode.com/)
 * 🤝  I'm open to collaborating on challenging projects
 * 💡   I'm JsConf.cl staff
 * ⚡  I love videogames, horror books and I have 5 dogs
