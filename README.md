@@ -7,7 +7,7 @@ Web Developer
 I have been learning to code since the beginning of 2022, after switching careers. 
 I love challenges and solving problems. 
 
-🚀I'm currently working as Trainee Ruby on Rails Developer at Código Facilito
+🚀I'm currently working as Software Developer at Código Facilito
 
 * 🌍  I'm based in Chile
 * 🖥️  See my portfolio at [My Portfolio :)](https://claunicode.com/)
