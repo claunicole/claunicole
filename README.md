@@ -12,7 +12,7 @@ I love challenges and solving problems.
 * 🌍  I'm based in Chile
 * 🖥️  See my portfolio at [My Portfolio :)](https://claunicode.com/)
 * 🤝  I'm open to collaborating on challenging projects
-* 💡   I'm JsConf.cl staff
+* 💡  Volunteer in the first JsConf.cl 
 * ⚡  I love videogames, horror books and I have 5 dogs
 
 ### Skills
