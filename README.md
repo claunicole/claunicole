@@ -10,7 +10,6 @@ I love challenges and solving problems.
 🚀I'm currently working as Software Developer at Código Facilito
 
 * 🌍  I'm based in Chile
-* 🖥️  See my portfolio at [My Portfolio :)](https://claunicode.com/)
 * 🤝  I'm open to collaborating on challenging projects
 * 💡  Volunteer in the first JsConf.cl 
 * ⚡  I love videogames, horror books and I have 5 dogs
